@@ -1,0 +1,1 @@
+Le projet nous sert à afficher les noms,notes,et les moyennes des étudiants avec leurs mentions de mérite .
